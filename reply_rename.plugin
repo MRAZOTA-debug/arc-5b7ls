@@ -1,0 +1,7 @@
+{
+  "name": "Reply Rename",
+  "version": "1.0.0",
+  "description": "Заменяет кнопку 'Ответ' на 'Цитировать'",
+  "author": "Tech",
+  "main": "index.js"
+}
